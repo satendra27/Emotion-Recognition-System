@@ -1,4 +1,7 @@
-opencv-python
+streamlit
+opencv-python-headless
 google-generativeai
 pyttsx3
 pillow
+numpy
+opencv-python
